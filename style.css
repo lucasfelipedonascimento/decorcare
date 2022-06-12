@@ -598,7 +598,7 @@ footer .social-links {
   }
 
   nav#nav .menu li a {
-    transition: opacity 4s;
+    transition: opacity 0.2s;
   }
 
    nav#nav .menu li a.active,
@@ -745,6 +745,7 @@ footer .social-links {
     grid-area: A;
     text-align: left;
     align-self: center;
+    margin: 0 0 0 7rem;
    }
    #about .col-b {
     grid-area: B;
